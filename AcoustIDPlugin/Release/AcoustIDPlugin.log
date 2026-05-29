@@ -1,0 +1,9 @@
+﻿  gen_acoustid.c
+     Creando biblioteca C:\Users\dionnys\Downloads\AcoustIDPlugin\Release\gen_acoustid.lib y objeto C:\Users\dionnys\Downloads\AcoustIDPlugin\Release\gen_acoustid.exp
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 32 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  AcoustIDPlugin.vcxproj -> C:\Users\dionnys\Downloads\AcoustIDPlugin\Release\gen_acoustid.dll
+  "pwsh.exe" no se reconoce como un comando interno o externo,
+  programa o archivo por lotes ejecutable.
